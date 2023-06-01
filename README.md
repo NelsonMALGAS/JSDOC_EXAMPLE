@@ -12,4 +12,4 @@ Additionally, we have an array called handler that contains a list of numbers.
 
 Lastly, we defined a class called MyClass that represents an instance of the class. It has a constructor method that takes in name and age parameters and sets them as properties of the class instance. The class also has getter and setter methods for retrieving and updating the name and age values.
 
-Overall, this code defines object types, a function, an array, and a class, each serving a specific purpose within the JavaScript application.
+NB !!! This is just a practice example for JSDoc 
